@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WheelFortune</string>
+    <string name="button_reset">RESET</string>
 </resources>
